@@ -1,0 +1,18 @@
+
+# Composer dependencies
+/vendor/
+
+# Database configuration (private credentials)
+/application/config/database.php
+
+# CodeIgniter cache
+/application/cache/*
+!/application/cache/index.html
+
+# CodeIgniter logs
+/application/logs/*
+!/application/logs/index.html
+
+# Temporary files
+Thumbs.db
+.DS_Store

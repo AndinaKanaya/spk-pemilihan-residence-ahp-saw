@@ -1,0 +1,7 @@
+{
+    "name": "local/spk-ahp-saw",
+    "description": "Dompdf dependency for SPK AHP SAW",
+    "require": {
+        "dompdf/dompdf": "3.1.6"
+    }
+}
